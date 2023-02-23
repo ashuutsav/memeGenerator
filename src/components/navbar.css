@@ -1,0 +1,23 @@
+.navbar-wrapper {
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: whitesmoke;
+  box-shadow: 0px 4px 3px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navbar-logo {
+  width: 5vw;
+  margin: 1vw;
+}
+
+.navbar-title {
+  font-size: 3vw;
+  margin: 0;
+}
+
+.navbar-project {
+  margin-right: 2vw;
+  margin-left: auto;
+}
